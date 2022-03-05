@@ -1,0 +1,30 @@
+D:\Users\Den\Desktop\DirectSound\Istrib.Sound.Example.WinForms\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Users\Den\Desktop\DirectSound\Istrib.Sound.Example.WinForms\obj\x86\Release\ResGen.read.1.tlog
+D:\Users\Den\Desktop\DirectSound\Istrib.Sound.Example.WinForms\obj\x86\Release\ResGen.write.1.tlog
+D:\Users\Den\Desktop\DirectSound\Istrib.Sound.Example.WinForms\bin\x86\Release\lame_enc.dll
+D:\Users\Den\Desktop\DirectSound\Istrib.Sound.Example.WinForms\bin\x86\Release\Istrib.Sound.Example.WinForms.exe
+D:\Users\Den\Desktop\DirectSound\Istrib.Sound.Example.WinForms\bin\x86\Release\Istrib.Sound.Example.WinForms.pdb
+D:\Users\Den\Desktop\DirectSound\Istrib.Sound.Example.WinForms\bin\x86\Release\Istrib.Sound.dll
+D:\Users\Den\Desktop\DirectSound\Istrib.Sound.Example.WinForms\bin\x86\Release\Istrib.Sound.Mp3.dll
+D:\Users\Den\Desktop\DirectSound\Istrib.Sound.Example.WinForms\bin\x86\Release\yeti.mp3.dll
+D:\Users\Den\Desktop\DirectSound\Istrib.Sound.Example.WinForms\bin\x86\Release\yeti.mmedia.dll
+D:\Users\Den\Desktop\DirectSound\Istrib.Sound.Example.WinForms\bin\x86\Release\Istrib.Sound.Mp3.pdb
+D:\Users\Den\Desktop\DirectSound\Istrib.Sound.Example.WinForms\bin\x86\Release\Istrib.Sound.pdb
+D:\Users\Den\Desktop\DirectSound\Istrib.Sound.Example.WinForms\obj\x86\Release\Istrib.Sound.Example.WinForms.MainForm.resources
+D:\Users\Den\Desktop\DirectSound\Istrib.Sound.Example.WinForms\obj\x86\Release\Istrib.Sound.Example.WinForms.exe
+D:\Users\Den\Desktop\DirectSound\Istrib.Sound.Example.WinForms\obj\x86\Release\Istrib.Sound.Example.WinForms.pdb
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Example.WinForms\obj\x86\Release\Istrib.Sound.Example.WinForms.exe
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Example.WinForms\obj\x86\Release\Istrib.Sound.Example.WinForms.pdb
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Example.WinForms\bin\x86\Release\lame_enc.dll
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Example.WinForms\bin\x86\Release\Istrib.Sound.Example.WinForms.exe
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Example.WinForms\bin\x86\Release\Istrib.Sound.Example.WinForms.pdb
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Example.WinForms\bin\x86\Release\Istrib.Sound.dll
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Example.WinForms\bin\x86\Release\Istrib.Sound.Mp3.dll
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Example.WinForms\bin\x86\Release\yeti.mp3.dll
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Example.WinForms\bin\x86\Release\yeti.mmedia.dll
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Example.WinForms\bin\x86\Release\Istrib.Sound.Mp3.pdb
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Example.WinForms\bin\x86\Release\Istrib.Sound.pdb
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Example.WinForms\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Example.WinForms\obj\x86\Release\Istrib.Sound.Example.WinForms.MainForm.resources
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Example.WinForms\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Example.WinForms\obj\x86\Release\ResGen.write.1.tlog

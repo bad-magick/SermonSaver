@@ -1,0 +1,10 @@
+D:\Users\Den\Desktop\DirectSound\yeti.mmedia\bin\Debug\yeti.mmedia.dll
+D:\Users\Den\Desktop\DirectSound\yeti.mmedia\bin\Debug\yeti.mmedia.pdb
+D:\Users\Den\Desktop\DirectSound\yeti.mmedia\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\Den\Desktop\DirectSound\yeti.mmedia\obj\Debug\yeti.mmedia.dll
+D:\Users\Den\Desktop\DirectSound\yeti.mmedia\obj\Debug\yeti.mmedia.pdb
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\yeti.mmedia\bin\Debug\yeti.mmedia.dll
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\yeti.mmedia\bin\Debug\yeti.mmedia.pdb
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\yeti.mmedia\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\yeti.mmedia\obj\Debug\yeti.mmedia.dll
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\yeti.mmedia\obj\Debug\yeti.mmedia.pdb

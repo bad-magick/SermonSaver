@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Istrib.Sound.Mp3">
+</Property><Property Name="Solution File" Value="D:\Users\Den\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Mp3\Istrib.Sound.Mp3.sln">
+</Property><Property Name="Date" Value="Monday, May 21, 2012">
+</Property><Property Name="Time" Value="11:50:32 AM">
+</Property></Properties><Event ErrorLevel="0" Project="Istrib.Sound.Mp3" Source="Istrib.Sound.Mp3.csproj" Description="Project file successfully backed up as D:\Users\Den\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Mp3\Backup\Istrib.Sound.Mp3.csproj">
+</Event><Event ErrorLevel="0" Project="Istrib.Sound.Mp3" Source="Istrib.Sound.Mp3.csproj.user" Description="Project user file successfully backed up as D:\Users\Den\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Mp3\Backup\Istrib.Sound.Mp3.csproj.user">
+</Event><Event ErrorLevel="0" Project="Istrib.Sound.Mp3" Source="Filters\Mp3CompressingFilter.cs" Description="File successfully backed up as D:\Users\Den\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Mp3\Backup\Filters\Mp3CompressingFilter.cs">
+</Event><Event ErrorLevel="0" Project="Istrib.Sound.Mp3" Source="Formats\Mp3BitRate.cs" Description="File successfully backed up as D:\Users\Den\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Mp3\Backup\Formats\Mp3BitRate.cs">
+</Event><Event ErrorLevel="0" Project="Istrib.Sound.Mp3" Source="Formats\Mp3SoundFormat.cs" Description="File successfully backed up as D:\Users\Den\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Mp3\Backup\Formats\Mp3SoundFormat.cs">
+</Event><Event ErrorLevel="0" Project="Istrib.Sound.Mp3" Source="Formats\Mp3SoundFormat.PcmSoundFormatExtensions.cs" Description="File successfully backed up as D:\Users\Den\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Mp3\Backup\Formats\Mp3SoundFormat.PcmSoundFormatExtensions.cs">
+</Event><Event ErrorLevel="0" Project="Istrib.Sound.Mp3" Source="Formats\MpegVersion.cs" Description="File successfully backed up as D:\Users\Den\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Mp3\Backup\Formats\MpegVersion.cs">
+</Event><Event ErrorLevel="0" Project="Istrib.Sound.Mp3" Source="Mp3SoundCapture.cs" Description="File successfully backed up as D:\Users\Den\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Mp3\Backup\Mp3SoundCapture.cs">
+</Event><Event ErrorLevel="0" Project="Istrib.Sound.Mp3" Source="Mp3SoundCapture.Designer.cs" Description="File successfully backed up as D:\Users\Den\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Mp3\Backup\Mp3SoundCapture.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Istrib.Sound.Mp3" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Users\Den\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Mp3\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Istrib.Sound.Mp3" Source="lame_enc.dll" Description="File successfully backed up as D:\Users\Den\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Mp3\Backup\lame_enc.dll">
+</Event><Event ErrorLevel="0" Project="Istrib.Sound.Mp3" Source="Istrib.Sound.Mp3.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Istrib.Sound.Mp3" Source="Istrib.Sound.Mp3.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Istrib.Sound.Mp3" Source="Istrib.Sound.Mp3.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

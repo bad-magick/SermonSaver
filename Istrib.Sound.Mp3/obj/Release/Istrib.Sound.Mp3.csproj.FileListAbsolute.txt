@@ -1,0 +1,18 @@
+D:\Users\Den\Desktop\DirectSound\Istrib.Sound.Mp3\obj\Release\ResolveAssemblyReference.cache
+D:\Users\Den\Desktop\DirectSound\Istrib.Sound.Mp3\bin\Release\Istrib.Sound.Mp3.dll
+D:\Users\Den\Desktop\DirectSound\Istrib.Sound.Mp3\bin\Release\Istrib.Sound.Mp3.pdb
+D:\Users\Den\Desktop\DirectSound\Istrib.Sound.Mp3\bin\Release\Istrib.Sound.dll
+D:\Users\Den\Desktop\DirectSound\Istrib.Sound.Mp3\bin\Release\yeti.mmedia.dll
+D:\Users\Den\Desktop\DirectSound\Istrib.Sound.Mp3\bin\Release\yeti.mp3.dll
+D:\Users\Den\Desktop\DirectSound\Istrib.Sound.Mp3\bin\Release\Istrib.Sound.pdb
+D:\Users\Den\Desktop\DirectSound\Istrib.Sound.Mp3\obj\Release\Istrib.Sound.Mp3.dll
+D:\Users\Den\Desktop\DirectSound\Istrib.Sound.Mp3\obj\Release\Istrib.Sound.Mp3.pdb
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Mp3\bin\Release\Istrib.Sound.Mp3.dll
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Mp3\bin\Release\Istrib.Sound.Mp3.pdb
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Mp3\bin\Release\Istrib.Sound.dll
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Mp3\bin\Release\yeti.mmedia.dll
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Mp3\bin\Release\yeti.mp3.dll
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Mp3\bin\Release\Istrib.Sound.pdb
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Mp3\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Mp3\obj\Release\Istrib.Sound.Mp3.dll
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Mp3\obj\Release\Istrib.Sound.Mp3.pdb

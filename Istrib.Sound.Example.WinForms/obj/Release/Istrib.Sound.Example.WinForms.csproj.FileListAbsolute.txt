@@ -1,0 +1,15 @@
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Example.WinForms\bin\Release\lame_enc.dll
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Example.WinForms\bin\Release\Istrib.Sound.Example.WinForms.exe
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Example.WinForms\bin\Release\Istrib.Sound.Example.WinForms.pdb
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Example.WinForms\bin\Release\Istrib.Sound.dll
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Example.WinForms\bin\Release\Istrib.Sound.Mp3.dll
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Example.WinForms\bin\Release\yeti.mp3.dll
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Example.WinForms\bin\Release\yeti.mmedia.dll
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Example.WinForms\bin\Release\Istrib.Sound.Mp3.pdb
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Example.WinForms\bin\Release\Istrib.Sound.pdb
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Example.WinForms\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Example.WinForms\obj\Release\Istrib.Sound.Example.WinForms.MainForm.resources
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Example.WinForms\obj\Release\ResGen.read.1.tlog
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Example.WinForms\obj\Release\ResGen.write.1.tlog
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Example.WinForms\obj\Release\Istrib.Sound.Example.WinForms.exe
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Example.WinForms\obj\Release\Istrib.Sound.Example.WinForms.pdb

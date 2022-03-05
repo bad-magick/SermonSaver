@@ -1,0 +1,10 @@
+D:\Users\Den\Desktop\DirectSound\Istrib.Sound\bin\Release\Istrib.Sound.dll
+D:\Users\Den\Desktop\DirectSound\Istrib.Sound\bin\Release\Istrib.Sound.pdb
+D:\Users\Den\Desktop\DirectSound\Istrib.Sound\obj\Release\ResolveAssemblyReference.cache
+D:\Users\Den\Desktop\DirectSound\Istrib.Sound\obj\Release\Istrib.Sound.dll
+D:\Users\Den\Desktop\DirectSound\Istrib.Sound\obj\Release\Istrib.Sound.pdb
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound\bin\Release\Istrib.Sound.dll
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound\bin\Release\Istrib.Sound.pdb
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound\obj\Release\Istrib.Sound.dll
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound\obj\Release\Istrib.Sound.pdb

@@ -1,0 +1,34 @@
+D:\Users\Den\Desktop\DirectSound\Istrib.Sound.Example.WinForms\bin\Debug\lame_enc.dll
+D:\Users\Den\Desktop\DirectSound\Istrib.Sound.Example.WinForms\bin\Debug\Istrib.Sound.Example.WinForms.exe
+D:\Users\Den\Desktop\DirectSound\Istrib.Sound.Example.WinForms\bin\Debug\Istrib.Sound.Example.WinForms.pdb
+D:\Users\Den\Desktop\DirectSound\Istrib.Sound.Example.WinForms\bin\Debug\Istrib.Sound.dll
+D:\Users\Den\Desktop\DirectSound\Istrib.Sound.Example.WinForms\bin\Debug\Istrib.Sound.Mp3.dll
+D:\Users\Den\Desktop\DirectSound\Istrib.Sound.Example.WinForms\bin\Debug\yeti.mp3.dll
+D:\Users\Den\Desktop\DirectSound\Istrib.Sound.Example.WinForms\bin\Debug\yeti.mmedia.dll
+D:\Users\Den\Desktop\DirectSound\Istrib.Sound.Example.WinForms\bin\Debug\Istrib.Sound.Mp3.pdb
+D:\Users\Den\Desktop\DirectSound\Istrib.Sound.Example.WinForms\bin\Debug\Istrib.Sound.pdb
+D:\Users\Den\Desktop\DirectSound\Istrib.Sound.Example.WinForms\bin\Debug\yeti.mp3.pdb
+D:\Users\Den\Desktop\DirectSound\Istrib.Sound.Example.WinForms\bin\Debug\yeti.mmedia.pdb
+D:\Users\Den\Desktop\DirectSound\Istrib.Sound.Example.WinForms\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\Den\Desktop\DirectSound\Istrib.Sound.Example.WinForms\obj\Debug\Istrib.Sound.Example.WinForms.MainForm.resources
+D:\Users\Den\Desktop\DirectSound\Istrib.Sound.Example.WinForms\obj\Debug\ResGen.read.1.tlog
+D:\Users\Den\Desktop\DirectSound\Istrib.Sound.Example.WinForms\obj\Debug\ResGen.write.1.tlog
+D:\Users\Den\Desktop\DirectSound\Istrib.Sound.Example.WinForms\obj\Debug\Istrib.Sound.Example.WinForms.exe
+D:\Users\Den\Desktop\DirectSound\Istrib.Sound.Example.WinForms\obj\Debug\Istrib.Sound.Example.WinForms.pdb
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Example.WinForms\bin\Debug\lame_enc.dll
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Example.WinForms\bin\Debug\Istrib.Sound.Example.WinForms.exe
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Example.WinForms\bin\Debug\Istrib.Sound.Example.WinForms.pdb
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Example.WinForms\bin\Debug\Istrib.Sound.dll
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Example.WinForms\bin\Debug\Istrib.Sound.Mp3.dll
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Example.WinForms\bin\Debug\yeti.mp3.dll
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Example.WinForms\bin\Debug\yeti.mmedia.dll
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Example.WinForms\bin\Debug\Istrib.Sound.Mp3.pdb
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Example.WinForms\bin\Debug\Istrib.Sound.pdb
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Example.WinForms\bin\Debug\yeti.mp3.pdb
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Example.WinForms\bin\Debug\yeti.mmedia.pdb
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Example.WinForms\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Example.WinForms\obj\Debug\Istrib.Sound.Example.WinForms.MainForm.resources
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Example.WinForms\obj\Debug\ResGen.read.1.tlog
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Example.WinForms\obj\Debug\ResGen.write.1.tlog
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Example.WinForms\obj\Debug\Istrib.Sound.Example.WinForms.exe
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\Istrib.Sound.Example.WinForms\obj\Debug\Istrib.Sound.Example.WinForms.pdb

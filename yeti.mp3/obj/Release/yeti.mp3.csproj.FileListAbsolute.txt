@@ -1,0 +1,8 @@
+D:\Users\Den\Desktop\DirectSound\yeti.mp3\bin\Release\yeti.mp3.dll
+D:\Users\Den\Desktop\DirectSound\yeti.mp3\bin\Release\yeti.mmedia.dll
+D:\Users\Den\Desktop\DirectSound\yeti.mp3\obj\Release\ResolveAssemblyReference.cache
+D:\Users\Den\Desktop\DirectSound\yeti.mp3\obj\Release\yeti.mp3.dll
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\yeti.mp3\bin\Release\yeti.mp3.dll
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\yeti.mp3\bin\Release\yeti.mmedia.dll
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\yeti.mp3\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator.SALC\Documents\Visual Studio 2010\Projects\SermonSaver\yeti.mp3\obj\Release\yeti.mp3.dll
